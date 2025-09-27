@@ -1,0 +1,8 @@
+.link {
+    display: flex;
+    gap: 5px
+}
+
+.link:hover {
+    color: orangered;
+}
